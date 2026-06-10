@@ -1,11 +1,1 @@
-Web VPython 3.2
 
-body = box(pos=vec(0,0,0),size=vec(1,2,0.5),color=color.blue)
-head = box(pos=vec(0,1.5,0),size=vec(0.8,0.8,0.5),color=color.yellow)
-left_arm = box(pos=vec(-0.8,0.5,0),size=vec(0.4,1,0.3),color=color.red)
-right_arm = box(pos=vec(0.8,0.5,0),size=vec(0.4,1,0.3),color=color.red)
-left_leg = box(pos=vec(-0.4,-1.5,0),size=vec(0.4,1,0.3),color=color.green)
-right_leg = box(pos=vec(0.4,-1.5,0),size=vec(0.4,1,0.3),color=color.green)
-left_eye = box(pos=vec(-0.2,1.7,0.3),size=vec(0.2,0.2,0.1),color=color.black)
-right_eye = box(pos=vec(0.2,1.7,0.3),size=vec(0.2,0.2,0.1),color=color.black)
-mouth = box(pos=vec(0,1.3,0.3),size=vec(0.4,0.1,0.1),color=color.black)
