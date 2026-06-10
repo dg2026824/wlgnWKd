@@ -33,7 +33,6 @@ mouth = box(pos=vec(0,1.3,0.3),size=vec(0.4,0.1,0.1),color=color.black)
 
 Web VPython 3.2
 
-scene = canvas(title="DNA Inside Humanoid", width=800, height=600, background=color.gray(0.9))
 body = box(pos=vec(0,0,0), size=vec(1.2, 2.2, 1.2), color=color.yellow, opacity=0.3)
 head = box(pos=vec(0, 1.6, 0), size=vec(0.8, 0.8, 0.8), color=color.yellow)
 left_arm = box(pos=vec(-0.8, 0.6, 0), size=vec(0.4, 1.2, 0.8), color=color.yellow)
